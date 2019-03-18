@@ -20,10 +20,10 @@ const cards = [].slice.call(deck.children);
 
 // Create list of card symbols
 
-var cardSymbols = ['js-square', 'css3-alt',
-    'python', 'react', 'angular', 'sass',
-    'js-square', 'css3-alt',
-    'python', 'react', 'angular', 'sass',];
+var cardSymbols = ['youtube', 'instagram',
+    'facebook', 'twitter', 'github', 'line',
+    'youtube', 'instagram',
+    'facebook', 'twitter', 'github', 'line',];
 
 // List opened cards
 let openCards = [];
@@ -66,9 +66,13 @@ function openCard(event) {
     //ใช้ค้นหาหรืออ้างอิง พาเร้นนั้นๆ
     const parent = target.parentElement;
     //เช็ค่วาelementนี้มีการaddclassมารึยัง
+
     if (parent.classList.contains('card')) {
         target = parent;
     }
+
+    console.log(target, parent);
+
     //includes เอาไว้เปรียบเทียบว่าเหมือนกันรึป่าว
     if (!openCards.includes(target)) {
         target.classList.add('open', 'show');
@@ -145,7 +149,7 @@ function incrementMove() {
     moves++;
     movesCount.textContent = moves;
     if (moves === 1) {
-        movesTxt.textContent = ' Move';
+        movesTxt.textContent = ' Moves';
     } else {
         movesTxt.textContent = ' Moves';
     }
@@ -212,7 +216,6 @@ function openModal() {
     modalMins.textContent = min > 0 ? `${min} minutes, ` : '';
     modalSeconds.textContent = `${sec} seconds`;
     modalMoves.textContent = `${moves} moves`;
-    modalRating.textContent = rating;
     modal.style.display = 'block';
 }
 
