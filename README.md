@@ -1,4 +1,4 @@
-<p font-size="50px">Find Social Symbol and Match.</p>
+# Find Social Symbol and Match.
 <b>Detail : </b><br>
 เป็นเกมส์จับคู่รูปภาพโลโก้ Social media ให้เหมือนกัน<br>
 <h1 font-family: "Courier New", "Lucida Console";>1.นาย นนททรัพย์ เซี่ยงฉิน 61070095 : Js, css, html</h1>
