@@ -1,10 +1,19 @@
 # Find Social Symbol and Match.
-
+<style>
+  h1{
+    font-family: "Courier New", "Lucida Console";
+    font-weight: bold;
+    color: black;
+    font-size: 24px;
+    text-shadow: 0px 1px hsl(66,100%,50%);
+  }
+  </style>
 <b>Detail : </b><br>
 เป็นเกมส์จับคู่รูปภาพโลโก้ Social media ให้เหมือนกัน<br>
 
 # Team
-<h1>1.นาย นนททรัพย์ เซี่ยงฉิน 61070095 </h1><br>
-<img src="https://scontent.fbkk22-2.fna.fbcdn.net/v/t1.0-9/43698373_340017946547214_6697831314327863296_n.jpg?_nc_cat=106&_nc_eui2=AeGTg3QTeskb5VyDBHlzuZRe1UVgzTsPI6qacXVDXYtpTG7fPQEEHTqmOlf21MsW1YuFusdzCmqaSTPGm5RsK-W0n4d6OypoLf5uXTIscVjkHg&_nc_ht=scontent.fbkk22-2.fna&oh=1f135a67504014e151562f73507fa41a&oe=5D1478E8" width="150px" height="150px">
-
-<br><h1>2.นาย พัชรพล บุญชุ่ม 61070136 </h1><br><img src="https://scontent.fbkk22-1.fna.fbcdn.net/v/t1.0-9/50722866_2018033111565478_1489669953048018944_n.jpg?_nc_cat=111&_nc_eui2=AeEhoHjaZloizuQ3W2nlVAaQ0rCUr7WVwBKT62nXSLnbuxOpLZHYOpfkgay-sI201UrBH-mRMoOKUbcGqqSIjN-rMuGTaLZphqCdY4vv-qma8g&_nc_ht=scontent.fbkk22-1.fna&oh=4a2dd94c9b62dd903d29f39cc21341fb&oe=5D077316" width="150px" height="150px">
+<h1>1.นาย นนททรัพย์ เซี่ยงฉิน 61070095 : Js, css, html</h1>
+<br><h1>2.นาย พัชรพล บุญชุ่ม 61070136 : Js, css, html</h1><br>
+<br><h1>3นาย นภจร หยงสตาร์ 61070096 : video, cast</h1><br>
+<br><h1>4นาย นายสรวิศ ผาวิรัตน์ 61070233 video, cast</h1><br>
+<br><h1>5นาย นายธีรพล จิรชาญชัย 61070091 video, cast</h1>
